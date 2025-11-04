@@ -12,16 +12,16 @@ El sistema permitirá:
 - Ofrecer una **configuración rápida y sencilla**.
 
 ---
-
 ## 👥 Participantes
 
-| Nombre | Rol | GitHub |
-|---------|-----|--------|
-| Julio Jesús López Casado |  |  |
-| Roberto Ariza Molina |  |  |
-| Alejandro Álvarez Soro |  |  |
-| Alejandro Martín Fernández |  |  |
-| Alejandro Díaz Ariza |  |  |
+| Nombre | GitHub |
+|---------|--------|
+| Julio Jesús López Casado | [@usuario1](https://github.com/usuario1) |
+| Roberto Ariza Molina | [@usuario2](https://github.com/usuario2) |
+| Alejandro Álvarez Soro | [@usuario3](https://github.com/usuario3) |
+| Alejandro Martín Fernández | [@usuario4](https://github.com/usuario4) |
+| Alejandro Díaz Ariza | [@usuario5](https://github.com/usuario5) |
+
+> 🔹 Sustituye `@usuarioX` por el nombre de usuario real de cada participante en GitHub.
 
 ---
-
